@@ -173,7 +173,7 @@ console.log(i);  //A,P,S,S,D,C, ,W,e,l,c,o,m,e,',s, ,y,o,u
 + The Document Object Model, or DOM for short, is a platform and language independent model to represent the HTML or XML documents
 + It defines the logical structure of the documents and the way in which they can be accessed and manipulated by an application program
 
-![image.png](domimage.png)
+![image.png](domImage.png)
 
 
 #### DOM Manipulations:
